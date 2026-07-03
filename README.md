@@ -1,37 +1,58 @@
-<h1 align="center">Hi 👋, I'm Arun Pandian</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel | Data Visualization</h3>
+<!--==========================
+      PREMIUM HEADER
+===========================-->
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Analyst+Fresher;Power+BI+Developer;Python+%7C+SQL+%7C+Excel;Turning+Data+into+Business+Insights;Always+Learning+New+Technologies"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:2563eb&text=Arun%20Pandian&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+# 👋 Hi, I'm Arun Pandian
+
+### 🚀 Aspiring Data Analyst | Python | SQL | Power BI | Excel | Business Intelligence
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Data+Analyst+Fresher;Power+BI+Dashboard+Developer;Python+%7C+SQL+%7C+Excel;Data+Cleaning+%7C+Visualization;Transforming+Data+Into+Business+Insights;Always+Learning+Something+New"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 🌟 About Me
 
-🎓 BE Computer Science Engineering Graduate (2025)
+<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJwbTRuNzd4dnJhaDdrd2VrMzhzYjN2bDl5M2J4OGxkeDZzNm95MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
-📊 Passionate about Data Analytics & Business Intelligence
+🎓 Computer Science Engineering Graduate (2025)
 
-💡 Skilled in Python, SQL, Power BI, Excel and Data Visualization
+📊 Aspiring Data Analyst passionate about solving business problems using data.
 
-📈 Interested in transforming raw data into meaningful insights
+💼 Looking for Data Analyst opportunities.
 
-🌱 Currently learning
-- Advanced Power BI
+📈 Skilled in
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Data Visualization
+
+🌱 Currently Learning
+
+- Advanced SQL
 - DAX
-- SQL Optimization
+- Power Query
+- Statistics
 - Data Storytelling
 
 📍 Chennai, Tamil Nadu, India
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -40,7 +61,7 @@
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -49,161 +70,156 @@
 
 # 💻 Tech Stack
 
-### Programming
+<div align="center">
 
-<p>
+## Languages
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
-</p>
+<br><br>
 
-### Data Analytics
+## Analytics
 
-<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,pandas,numpy"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/DAX-FFC000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📊 Employee Report Automation & Analytics Dashboard
-
-✔ Power BI Dashboard
-
-✔ Data Cleaning
-
-✔ KPI Visualization
-
-✔ Interactive Filters
-
-🔗 Repository
-
-https://github.com/arunarun133/Employee-Report-Automation-and-Analytics-Dashboard
+| Project | Description |
+|----------|-------------|
+| 📊 Employee Analytics Dashboard | Power BI Dashboard with KPIs & Interactive Visualizations |
+| 📈 Netflix Data Analysis | Python + Pandas + Data Cleaning + Visualization |
+| 📉 AI Impact on Jobs Dashboard | Power BI + SQL + DAX |
+| 🌐 Smart CNG Distribution System | IoT Final Year Project |
+| 📊 HR Analytics Dashboard | Employee Attrition Analysis |
+| 📦 Sales Dashboard | Business Intelligence Dashboard |
 
 ---
 
-## 📈 Netflix Data Analysis
+# 📚 Current Focus
 
-- Python
-- Pandas
-- Matplotlib
-- Data Cleaning
-- Exploratory Data Analysis
+```text
+███████████████████░░░ 90%
 
----
-
-## 📊 AI Impact on Jobs Dashboard
-
-- Power BI
-- SQL
-- Excel
-- DAX
-- Business Insights
-
----
-
-## 🌐 Cloud-Based Smart CNG Distribution & Leak Prevention System
-
-Final Year Project
-
-Technologies
-
-- IoT
-- NodeMCU
-- MQTT
-- Cloud Monitoring
-
----
-
-# 📚 Currently Working On
-
-✅ Data Analyst Portfolio
-
-✅ SQL Practice
-
-✅ Power BI Dashboards
-
-✅ Python Data Analysis Projects
+Learning Advanced Power BI
+Learning SQL Optimization
+Building Data Portfolio
+Preparing for Data Analyst Interviews
+```
 
 ---
 
 # 🛠 Tools
 
-✔ VS Code
+<p align="center">
 
-✔ Jupyter Notebook
+💻 VS Code
 
-✔ Power BI Desktop
+📊 Power BI
 
-✔ Excel
+📈 Excel
 
-✔ GitHub
+📒 Jupyter Notebook
 
-✔ Oracle SQL
+🗃 Oracle SQL
+
+🐍 Python
+
+📁 GitHub
+
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arunarun133&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=arunarun133&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunarun133&theme=tokyonight"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=arunarun133&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunarun133&layout=compact&theme=tokyonight"/>
+</div>
 
-</p>
+---
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunarun133&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunarun133&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arunarun133&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable this using GitHub Actions.
+
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arunarun133&theme=algolia&no-frame=true&row=1"/>
+<img src="https://raw.githubusercontent.com/arunarun133/arunarun133/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-# 👀 Visitor Count
+# ☕ Fun Facts
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=arunarun133&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# 💬 Quote
-
-> "Without data, you're just another person with an opinion."
-
-— W. Edwards Deming
+- 📊 I enjoy turning raw data into dashboards.
+- 🚀 Always learning new analytics tools.
+- 📚 Love exploring real-world datasets.
+- 💡 Passionate about Business Intelligence.
+- 🌍 Open to Data Analyst opportunities.
 
 ---
 
-⭐ If you like my work, don't forget to Star my repositories.
+# 💬 Favorite Quote
+
+> **"Without data, you're just another person with an opinion."**
+
+**— W. Edwards Deming**
+
+---
+
+<div align="center">
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=arunarun133&label=Visitors&color=0e75b6&style=for-the-badge"/>
+
+⭐ **If you like my work, don't forget to star my repositories!**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer"/>
