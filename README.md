@@ -172,19 +172,15 @@ Preparing for Data Analyst Interviews
 
 ---
 
-# 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arunarun133&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:06B6D4&height=70&section=header&text=🏆%20GitHub%20Achievements&fontSize=30&fontColor=ffffff"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=arunarun133&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
 
 </div>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable this using GitHub Actions.
 
 <p align="center">
 
